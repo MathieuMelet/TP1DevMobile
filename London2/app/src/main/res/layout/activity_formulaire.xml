@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.example.mathieu.london.formulaire">
+
+    <include
+        android:id="@+id/but"
+
+        layout="@layout/content_formulaire1"
+        android:layout_width="412dp"
+        android:layout_height="553dp" />
+
+</android.support.constraint.ConstraintLayout>
+
+
+
